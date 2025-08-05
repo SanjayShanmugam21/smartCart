@@ -1,0 +1,160 @@
+[{
+  "id": 1,
+  "name": "Galaxy S23",
+  "brand": "Samsung",
+  "ram": "8GB",
+  "storage": "128GB",
+  "mrp": 70999,
+  "price": 69999,
+  "img": "/images/galaxys23.avif"
+}
+,
+  {
+    "id": 2,
+    "name": "iPhone 14",
+    "brand": "Apple",
+    "ram": "6GB",
+    "storage": "128GB",
+    "mrp": 75099,
+    "price": 74999,
+    "img": "/images/iPhone14.jpg"
+  },
+   {
+    "id": 6,
+    "name": "Pixel 7a",
+    "brand": "Google",
+    "color": "Charcoal",
+    "ram": "8GB",
+    "storage": "128GB",
+    "display": "6.1-inch OLED",
+    "mrp": 43999,
+    "price": 39999,
+    "img": "/images/pixel.webp"
+  },
+  {
+    "id": 7,
+    "name": "Motorola Edge 40",
+    "brand": "Motorola",
+    "color": "Eclipse Black",
+    "ram": "8GB",
+    "storage": "256GB",
+    "display": "6.55-inch P-OLED",
+    "mrp": 32999,
+    "price": 27999,
+    "img": "/images/motorola edge 40.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Galaxy S22",
+    "brand": "Samsung",
+    "ram": "8GB",
+    "storage": "128GB",
+    "mrp": 64999,
+    "price": 63999,
+    "img": "/images/s22.webp"
+  },
+  {
+    "id": 6,
+    "name": "Galaxy A54",
+    "brand": "Samsung",
+    "ram": "6GB",
+    "storage": "128GB",
+    "mrp": 38999,
+    "price": 37999,
+    "img": "/images/a54.webp"
+  },
+  {
+    "id": 7,
+    "name": "Galaxy S21 FE",
+    "brand": "Samsung",
+    "ram": "8GB",
+    "storage": "128GB",
+    "mrp": 49999,
+    "price": 47999,
+    "img": "/images/s21.webp"
+  },
+  {
+    "id": 8,
+    "name": "iQOO Neo 7",
+    "brand": "iQOO",
+    "color": "Interstellar Black",
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.78-inch AMOLED",
+    "mrp": 34999,
+    "price": 30999,
+  "img": "/images/iqoo.jpg"
+  },
+  {
+    "id": 9,
+    "name": "iPhone SE (2022)",
+    "brand": "Apple",
+    "ram": "4GB",
+    "storage": "64GB",
+    "mrp": 49999,
+    "price": 45999,
+    "img": "/images/iphone.webp"
+  },
+  {
+    "id": 10,
+    "name": "Galaxy M14",
+    "brand": "Samsung",
+    "ram": "6GB",
+    "storage": "128GB",
+    "mrp": 14999,
+    "price": 13499,
+    "img": "/images/m14.webp"
+  },
+  {
+    "id": 11,
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "ram": "8GB",
+    "storage": "256GB",
+    "mrp": 139999,
+    "price": 135999,
+    "img": "/images/i15.webp"
+  },
+  {
+    "id": 12,
+    "name": "Galaxy Z Flip5",
+    "brand": "Samsung",
+    "ram": "8GB",
+    "storage": "256GB",
+    "mrp": 99999,
+    "price": 96999,
+    "img": "/images/flip.webp"
+  },
+  {
+    "id": 13,
+    "name": "Galaxy M13",
+    "brand": "Samsung",
+    "ram": "4GB",
+    "storage": "64GB",
+    "mrp": 13999,
+    "price": 12499,
+    "img": "/images/m13.webp"
+  },
+  {
+    "id": 14,
+    "name": "iPhone 12",
+    "brand": "Apple",
+    "ram": "4GB",
+    "storage": "64GB",
+    "mrp": 65999,
+    "price": 60999,
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-black-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343704000"
+  },
+   {
+    "id": 9,
+    "name": "Vivo V27",
+    "brand": "Vivo",
+    "color": "Magic Blue",
+    "ram": "8GB",
+    "storage": "128GB",
+    "display": "6.78-inch AMOLED",
+    "mrp": 32999,
+    "price": 28999,
+    "img": "/images/vivo27.jpg"
+  }
+]
