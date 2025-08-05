@@ -4,8 +4,8 @@ const Product = ({ product, addToCart }) => {
   return (
     <div className="bg-white p-4 md:p-5 hover:shadow-xl transition-all duration-200 rounded w-full">
       <img 
-        src={product.img} 
-        alt={product.name} 
+        src={img} 
+        alt={name} 
         className="w-full h-40 md:h-48 object-contain mb-3 md:mb-4" 
       />
 
